@@ -25,3 +25,5 @@ Program is based on skeleton code provided for CS 374 - Intro to Computer Networ
 - If using Ping, the script will send an echo request once per second until you press escape.
 
 ## Output examples:
+![Screenshot of Traceroute](/trace_ping_traceroute_example.png)
+![Screenshot of Ping](/trace_ping_ping_example.png)
